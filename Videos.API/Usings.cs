@@ -1,3 +1,9 @@
 ﻿global using Videos.Common.DTOs;
 global using Microsoft.EntityFrameworkCore;
 global using Videos.Data.Contexts;
+global using Microsoft.AspNetCore.Mvc;
+global using Videos.API.Extensions;
+global using Videos.Data.Entities;
+global using Videos.Data.Interfaces;
+global using AutoMapper;
+global using Videos.Data.Services;
